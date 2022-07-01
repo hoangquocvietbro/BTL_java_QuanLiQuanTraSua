@@ -1,0 +1,58 @@
+MH01;Trà sữa kem cheese;30000;35000;Cốc;Ngon
+MH02;Trà sữa trân châu đường đen;25000;30000;Cốc;Ngon
+MH02;Trà sữa trứng nướng trân châu;25000;30000;Cốc;Ngon
+MH03;Trà sữa kem trứng;30000;35000;Cốc;Ngon
+MH04;Trà sữa socola(matcha) cafe;30000;35000;Cốc;Ngon
+MH05;Trà sữa kem dừa nướng;30000;35000;Cốc;Ngon
+MH06;Trà sữa kem matcha;30000;35000;Cốc;Ngon
+MH07;Trà sữa kem socola;30000;35000;Cốc;Ngon
+MH08;Trà sữa kem mix;30000;35000;Cốc;Ngon
+MH09;Trà sữa hokaido;30000;35000;Cốc;Ngon
+MH10;Hồng trà sữa;25000;30000;Cốc;Ngon
+MH11;Trà sữa đào;25000;30000;Cốc;Ngon
+MH12;Trà nhài sữa;25000;30000;Cốc;Ngon
+MH13;Trân châu trắng;5000;20000;Cốc;Ngon
+MH14;Trân châu đen;5000;25000;Cốc;Ngon
+MH15;Nha đam;5000;10000;Cốc;Ngon
+MH16;Cá heo;5000;25000;Cốc;Ngon
+MH17;kem trứng;7000;14000;Cốc;Ngon
+MH18;kem cheese;10000;25000;Cốc;Ngon
+MH19;Nắng vàng biển xanh;25000;30000;Cốc;Ngon
+MH20;Hoa hồng xanh;30000;35000;Cốc;Ngon
+MH21;kiwi thanh long đỏ;25000;30000;Cốc;Ngon
+MH22;Dâu soda dứa;25000;30000;Cốc;Ngon
+MH23;Ép cam;25000;30000;Cốc;Ngon
+MH24;Táo;25000;30000;Cốc;Ngon
+MH25;Cam táo dứa;30000;35000;Cốc;Ngon
+MH26;Dứa;20000;25000;Cốc;Ngon
+MH27;Dưa hấu;20000;25000;Cốc;Ngon
+MH28;Ổi;25000;30000;Cốc; Ngon
+MH29;Cần tây mix táo;25000;30000;Cốc; Ngon
+MH29;Cân tây mix dứa;25000;30000;Cốc; Ngon
+MH30;Cà phê nâu đá;25000;30000;Cốc; Ngon
+MH31;Cà phê đen đá;20000;25000;Cốc; Ngon
+MH31;Bạc sửu;25000;30000;Cốc; Ngon
+MH32;Cà phê lắc sữa;30000;35000;Cốc; Ngon
+MH33;Cà phê cốt dừa;30000;35000;Cốc; Ngon
+MH34;Blue cà phê hàn;30000;35000;Cốc; Ngon
+MH35;Matcha cốt dừa;25000;30000;Cốc; Ngon
+MH36;khoai môn cốt dừa;25000;30000;Cốc; Ngon
+MH37;Cacao cốt dừa;25000;30000;Cốc; Ngon
+MH38;Cà phê cốt dừa;30000;35000;Cốc; Ngon
+MH39;Trà chanh;10000;15000;Cốc; Ngon
+MH40;Trà tắc;10000;15000;Cốc; Ngon
+MH41;Trà tắc mật ong;15000;20000;Cốc; Ngon
+MH42;trà tắc nha đam;15000;20000;Cốc; Ngon
+MH43;Trà táo;20000;25000;Cốc; Ngon
+MH44;Trà đào;20000;25000;Cốc; Ngon
+MH45;Trà cam đào;25000;30000;Cốc; Ngon
+MH46;Trà đào cam xả;25000;30000;Cốc; Ngon
+MH47;Trà vải;20000;25000;Cốc; Ngon
+MH48;Trà quất lắc sữa;25000;30000;Cốc; Ngon
+MH49;Trà chanh leo;25000;30000;Cốc; Ngon
+MH50;Trà dâu;20000;25000;Cốc; Ngon
+MH51;Trà hoa quả nhiệt đới;25000;30000;Cốc; Ngon
+MH52;Trà tắc bặc hà;25000;30000;Cốc; Ngon
+MH53;Trà dưa hấu;25000;30000;Cốc; Ngon
+MH54;Trà đào;25000;30000;Cốc;Ngon ngọt
+MH66;Trà đen;200000;30000;Cốc;Ngon đặc biệt

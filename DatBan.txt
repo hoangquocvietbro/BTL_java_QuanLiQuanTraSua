@@ -1,0 +1,8 @@
+Bàn 1;Có Khách;5;Trà Sữa;not;30000
+Bàn 2;Trống;0;not;not;not
+Bàn 3;Có Khách;6;Trà Sữa Nướng;Hướng Dương;10000
+Bàn 4;Trống;0;not;not;not
+Bàn 5;Có khách;2;Trà sữa;not;80000
+Bàn 6;Có Khách;5;Trà Tắc;not;15000
+Bàn 7;Trống;5;Trà Tắc;not;20000
+Bàn 8;Có Khách;5;Trà Tắc;not;15000
